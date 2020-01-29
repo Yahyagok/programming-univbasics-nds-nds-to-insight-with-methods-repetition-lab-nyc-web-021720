@@ -32,7 +32,7 @@ def list_of_directors(source)
   
   
   
-  pp directors_database
+
   directors_names = []
   index = 0 
   while index < source.size do 
